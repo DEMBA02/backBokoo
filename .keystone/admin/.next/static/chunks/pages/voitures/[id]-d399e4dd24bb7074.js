@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1575],{65206:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/voitures/[id]",function(){return t(55521)}])},55521:function(n,u,t){"use strict";t.r(u);var i=t(21086);u.default=(0,i.p)({listKey:"Voiture"})}},function(n){n.O(0,[1086,2888,9774,179],function(){return n(n.s=65206)}),_N_E=n.O()}]);

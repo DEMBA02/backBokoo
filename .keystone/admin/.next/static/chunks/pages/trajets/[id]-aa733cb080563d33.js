@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[977],{33261:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/trajets/[id]",function(){return u(98539)}])},98539:function(n,t,u){"use strict";u.r(t);var _=u(21086);t.default=(0,_.p)({listKey:"Trajet"})}},function(n){n.O(0,[1086,2888,9774,179],function(){return n(n.s=33261)}),_N_E=n.O()}]);

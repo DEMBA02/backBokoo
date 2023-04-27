@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3332],{34467:function(u,n,f){(window.__NEXT_P=window.__NEXT_P||[]).push(["/chauffeurs/[id]",function(){return f(56567)}])},56567:function(u,n,f){"use strict";f.r(n);var _=f(21086);n.default=(0,_.p)({listKey:"Chauffeur"})}},function(u){u.O(0,[1086,2888,9774,179],function(){return u(u.s=34467)}),_N_E=u.O()}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6111],{88994:function(n,u,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/avis/[id]",function(){return i(71060)}])},71060:function(n,u,i){"use strict";i.r(u);var _=i(21086);u.default=(0,_.p)({listKey:"Avi"})}},function(n){n.O(0,[1086,2888,9774,179],function(){return n(n.s=88994)}),_N_E=n.O()}]);

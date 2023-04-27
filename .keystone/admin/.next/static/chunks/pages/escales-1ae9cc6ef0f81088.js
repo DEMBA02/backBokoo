@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6213],{31063:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/escales",function(){return e(82298)}])},82298:function(n,u,e){"use strict";e.r(u);var _=e(9215);u.default=(0,_.d)({listKey:"Escale"})}},function(n){n.O(0,[9215,2888,9774,179],function(){return n(n.s=31063)}),_N_E=n.O()}]);

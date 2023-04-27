@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[476],{73442:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/tags/[id]",function(){return t(41526)}])},41526:function(n,u,t){"use strict";t.r(u);var _=t(21086);u.default=(0,_.p)({listKey:"Tag"})}},function(n){n.O(0,[1086,2888,9774,179],function(){return n(n.s=73442)}),_N_E=n.O()}]);
