@@ -23,5 +23,8 @@
     "paydunya": "^1.0.0",
     "typescript": "^4.9.5"
     
-  }
+  },
+  "engines.node" : "^18.16.0",
+  "engines.npm": "^9.5.1"
+
 }
